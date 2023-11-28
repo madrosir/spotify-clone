@@ -6,7 +6,7 @@ import SearchContent from "./components/SearchContent";
 
 interface SearchProps{
     searchParams: {
-    tittle: string;}
+    title: string;}
 };
 
 export const revalidate = 0;

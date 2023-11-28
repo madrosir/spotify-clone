@@ -8,7 +8,7 @@ import {BsPauseFill , BsPlayFill} from 'react-icons/bs';
 import { AiFillStepBackward, AiFillStepForward } from "react-icons/ai";
 import {HiSpeakerWave, HiSpeakerXMark} from "react-icons/hi2"
 import Slider from "./Slider";
-import usePlayer from "@/hooks/usePlayer.ts";
+import usePlayer from "@/hooks/usePlayer";
 import { useEffect, useState } from "react";
 
 interface PlayerContentProps{
