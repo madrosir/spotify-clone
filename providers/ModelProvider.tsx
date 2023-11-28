@@ -10,7 +10,7 @@ interface ModelProviderProps {
     products: ProductWithPrice[];
 }
 
-const ModelProvider: React.FC<ProductWithPrice> = ({
+const ModelProvider: React.FC<ModelProviderProps> = ({
     products
 }) => {
     
