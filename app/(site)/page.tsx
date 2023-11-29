@@ -36,7 +36,7 @@ overflow-y-auto'>
   mt-4
   '>
   <ListItem 
-  image='/images/Liked.png'
+  image='/images/vs.png'
   name="Liked Songs"
   href='liked'
   />
